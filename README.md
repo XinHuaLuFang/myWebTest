@@ -1,6 +1,6 @@
 # myWebTest
 
-Qunit、Jasmine、Mocha
+Qunit、Jasmine、Mocha、Karma、Tape
 
 ### 声明库
 ```javascript
@@ -26,3 +26,6 @@ Qunit、Jasmine、Mocha
 
 * Moncha
 * Chai
+
+### 学习资料
+* [测试框架 Mocha 实例教程](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
